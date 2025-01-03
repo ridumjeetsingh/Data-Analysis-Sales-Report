@@ -43,17 +43,17 @@ Designed a one-page interactive dashboard to showcase sales insights:
 ![Sales Dashboard Image](https://github.com/user-attachments/assets/5ab86533-3fa5-4cbe-baee-81aad552b17f)
 
 
-Key Features and Outcomes
-•	Dynamic Data Handling: Seamless integration of new or missing data files without errors.
-•	Actionable Insights: Comprehensive metrics and trends for better decision-making.
-•	Professional Design: Engaging visuals to communicate complex insights clearly.
+## Key Features and Outcomes
+-	Dynamic Data Handling: Seamless integration of new or missing data files without errors.
+-	Actionable Insights: Comprehensive metrics and trends for better decision-making.
+-	Professional Design: Engaging visuals to communicate complex insights clearly.
 
-Technology Stack
-•	Power BI: For visualization and dashboard creation.
-•	DAX (Data Analysis Expressions): For advanced metrics and calculations.
-•	ETL (Extract, Transform, Load): To clean and transform data for modeling.
+## Technology Stack
+-	Power BI: For visualization and dashboard creation.
+-	DAX (Data Analysis Expressions): For advanced metrics and calculations.
+-	ETL (Extract, Transform, Load): To clean and transform data for modeling.
 
-Future Enhancements
-•	Add support for more dimensions, such as customer demographics or product reviews.
-•	Automate dashboard updates with real-time data.
+## Future Enhancements
+-	Add support for more dimensions, such as customer demographics or product reviews.
+-	Automate dashboard updates with real-time data.
 
